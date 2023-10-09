@@ -1,8 +1,8 @@
 # cTab：Edge 新标签页扩展
 
 cTab 是一个空白的新标签页，并且支持深色模式
-![](https://github.com/leaicc/Image/blob/main/cTab/light.png)
-![](https://github.com/leaicc/Image/blob/main/cTab/dark.png)
+<img width="1266" alt="截屏2023-10-09 下午4 40 13" src="https://github.com/douseful/cTab/assets/52767905/de94aa32-e76a-42dc-bfec-bf144b62dab6">
+
  
 ### 想法
 1. 习惯于在打开浏览器或者点击「新建标签页(Ctrl+T)」时，直接在地址栏输入想要搜索的内容，然后回车完成搜索  
@@ -10,6 +10,3 @@ cTab 是一个空白的新标签页，并且支持深色模式
 3. 想要一款属于自己的新标签页
 
 基于以上3点，这个插件就诞生了
-
-### 使用指南
-目前插件已经上架到 Edge 浏览器插件应用商店，直接搜索 "cTab" 或者点击直达链接：[cTab](https://microsoftedge.microsoft.com/addons/detail/pkbnhcijnkdpabmhcnelbmkpcobbffbm)
