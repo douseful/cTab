@@ -1,4 +1,4 @@
-# cTab：Edge 新标签页扩展
+# cTab 新标签页扩展
 
 cTab 是一个空白的新标签页，并且支持深色模式
 <img width="1266" alt="截屏2023-10-09 下午4 40 13" src="https://github.com/douseful/cTab/assets/52767905/de94aa32-e76a-42dc-bfec-bf144b62dab6">
